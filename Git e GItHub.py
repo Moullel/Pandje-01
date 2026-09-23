@@ -6,5 +6,5 @@ print(f"Senha: {password}")
 if login=="Moullel" and password=="123456":
     print("Bem vindo ao sistema!")
 else:
-    print("Login ou senha incorretos. Tente novamente.")
+    print("Login ou senha incorretos. besta")
     exit()
