@@ -11,19 +11,19 @@ senha=input("Digite Sua Senha:")
 tentativa=1
 
 
-while not(login == "Moullel" and senha == "123456"):
-    print (">usuário ou senha invalido(a)! Tenta Tovamente:")
+# while not(login == "Moullel" and senha == "123456"):
+#     print (">usuário ou senha invalido(a)! Tenta Tovamente:")
 
-    print(tentativa)
+#     print(tentativa)
 
-    login=input("Usuario:")
-    senha=input("Senha:")
-    tentativa+=1
-    if tentativa == 3:
+#     login=input("Usuario:")
+#     senha=input("Senha:")
+#     tentativa+=1
+#     if tentativa == 3:
         
-        break
+#         break
 
-print("Contate o Administrador!")
+# print("Contate o Administrador!")
 
 
 
